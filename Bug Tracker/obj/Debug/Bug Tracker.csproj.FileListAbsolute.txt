@@ -1,0 +1,10 @@
+C:\Users\pc\source\repos\Bug Tracker\Bug Tracker\bin\Debug\Bug Tracker.exe.config
+C:\Users\pc\source\repos\Bug Tracker\Bug Tracker\bin\Debug\Bug Tracker.exe
+C:\Users\pc\source\repos\Bug Tracker\Bug Tracker\bin\Debug\Bug Tracker.pdb
+C:\Users\pc\source\repos\Bug Tracker\Bug Tracker\obj\Debug\Bug Tracker.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Bug Tracker\Bug Tracker\obj\Debug\Bug_Tracker.Form1.resources
+C:\Users\pc\source\repos\Bug Tracker\Bug Tracker\obj\Debug\Bug_Tracker.Properties.Resources.resources
+C:\Users\pc\source\repos\Bug Tracker\Bug Tracker\obj\Debug\Bug Tracker.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Bug Tracker\Bug Tracker\obj\Debug\Bug Tracker.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Bug Tracker\Bug Tracker\obj\Debug\Bug Tracker.exe
+C:\Users\pc\source\repos\Bug Tracker\Bug Tracker\obj\Debug\Bug Tracker.pdb

@@ -5,5 +5,4 @@ C# GUI Application to track bugs
 
 the application will store all the data in a text file
 
-**
-This is just a protoypte as this is my first time using C# and making gui application
+** This is just a prototype as this is my first time using C# and making gui application

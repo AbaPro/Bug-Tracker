@@ -3,4 +3,7 @@ C# GUI Application to track bugs
 
 ![image](Readme%20Media/Screenshot1.png)
 
-https://github.com/AbaPro/Bug-Tracker/blob/main/Readme%20Media/Video.mp4
+the application will store all the data in a text file
+
+**
+This is just a protoypte as this is my first time using C# and making gui application
